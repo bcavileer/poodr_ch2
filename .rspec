@@ -1,0 +1,4 @@
+--order rand
+--color
+-r spec_helper
+-r turnip/rspec
